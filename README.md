@@ -400,6 +400,7 @@ Example: `tail file.txt`
     - `o` stands for other
     
     <aside>
+        
     📌 Here I’m giving Read (r), Write (w) and Execute (x) permission to User, Read (r) and Execute (x) permission to Group, Read (r) only permission to Other
     
     </aside>
