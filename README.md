@@ -1,6 +1,6 @@
 # Into to Linux Commands
 
-👋 Welcome to the "Intro to Linux Commands". This repository is a beginner-friendly resource for learning essential Linux commands. Whether you're new to Linux or need a refresher on command-line basics, this repository aims to provide you with the knowledge you need to navigate and work with the Linux command line effectively 🐧
+👋 Welcome to the `Intro to Linux Commands`. This repository is a beginner-friendly resource for learning essential Linux commands. Whether you're new to Linux or need a refresher on command-line basics, this repository aims to provide you with the knowledge you need to navigate and work with the Linux command line effectively 🐧
 
 ## Introduction
 Linux is a powerful and versatile operating system used by millions of developers, sysadmins, and enthusiasts worldwide. Understanding the command-line interface (CLI) is fundamental for harnessing the full potential of Linux. This repository serves as a learning guide and reference for various Linux commands  💡
