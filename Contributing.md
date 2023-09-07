@@ -1,4 +1,4 @@
-# Contributing Guide
+# Contribution Guide
 
 Thank you for your interest in contributing to this project! Welcoming contributions to help to improve and expand the repository. This guide outlines the steps you can take to contribute effectively.
 
